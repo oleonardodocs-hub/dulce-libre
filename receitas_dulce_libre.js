@@ -23,7 +23,8 @@ const RECEITAS = {
         "Añade el polvo de hornear.",
         "Vierte en molde engrasado y hornea 20 min.",
         "Deja enfriar antes de cortar."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Cheesecake de fresa sin azúcar",
@@ -48,7 +49,8 @@ const RECEITAS = {
         "Calienta la gelatina y agrega a la mezcla.",
         "Vierte en molde y refrigera 4 horas.",
         "Desmolda y decora con fresas frescas."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Mousse de chocolate",
@@ -72,7 +74,8 @@ const RECEITAS = {
         "Une el chocolate con las yemas.",
         "Incorpora las claras con movimientos envolventes.",
         "Refrigera 2 horas antes de servir."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Flan de vainilla sin azúcar",
@@ -96,7 +99,8 @@ const RECEITAS = {
         "Une leche con mezcla de huevos.",
         "Vierte en moldes y hornea a baño maría 50 min.",
         "Refrigera al menos 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Galletas de avena y canela",
@@ -121,7 +125,8 @@ const RECEITAS = {
         "Incorpora las nueces.",
         "Forma bolitas y aplana en bandeja.",
         "Hornea 12-15 min hasta dorar."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Tarta de manzana sin azúcar",
@@ -146,7 +151,8 @@ const RECEITAS = {
         "Extiende base en molde y coloca las manzanas.",
         "Hornea a 180°C por 35 min.",
         "Deja enfriar antes de servir."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Trufas de cacao y coco",
@@ -171,7 +177,8 @@ const RECEITAS = {
         "Forma bolitas con las manos.",
         "Cubre con coco rallado.",
         "Refrigera hasta servir."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Panacota de coco",
@@ -196,7 +203,8 @@ const RECEITAS = {
         "Vierte en moldes individuales.",
         "Refrigera mínimo 3 horas.",
         "Desmolda y decora con frutos rojos."
-      ]
+      ],
+      "emoji": "🍰"
     },
     {
       "nombre": "Helado de banana y cacao",
@@ -220,7 +228,8 @@ const RECEITAS = {
         "Mezcla bien.",
         "Vierte en recipiente y congela 2 horas.",
         "Sirve directamente del congelador."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Crema de limón sin azúcar",
@@ -244,7 +253,8 @@ const RECEITAS = {
         "Cuando espese, retira del fuego.",
         "Agrega mantequilla y mezcla.",
         "Refrigera hasta usar."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Budín de chía y mango",
@@ -269,7 +279,8 @@ const RECEITAS = {
         "Licúa el mango hasta obtener puré.",
         "Sirve el budín con puré de mango.",
         "Decora con trozos de mango fresco."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Soufflé de chocolate",
@@ -293,7 +304,8 @@ const RECEITAS = {
         "Bate claras a punto de nieve.",
         "Incorpora claras al chocolate con suavidad.",
         "Hornea 15 min sin abrir el horno."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Natilla de vainilla",
@@ -318,7 +330,8 @@ const RECEITAS = {
         "Cocina a fuego medio revolviendo.",
         "Cuando espese, retira del fuego.",
         "Sirve en copas y espolvorea canela."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Turrón de almendra",
@@ -342,7 +355,8 @@ const RECEITAS = {
         "Agrega almendras, stevia y vainilla.",
         "Vierte en molde forrado.",
         "Deja enfriar 1 hora y corta en barras."
-      ]
+      ],
+      "emoji": "🍬"
     },
     {
       "nombre": "Gelatina de frutas tropicales",
@@ -367,7 +381,8 @@ const RECEITAS = {
         "Agrega stevia y mezcla.",
         "Vierte en molde con las frutas.",
         "Refrigera 4 horas."
-      ]
+      ],
+      "emoji": "🟡"
     },
     {
       "nombre": "Tiramisú sin azúcar",
@@ -391,7 +406,8 @@ const RECEITAS = {
         "Incorpora claras con movimientos suaves.",
         "Moja bizcochos en café y forma capas.",
         "Cubre con crema, refrigera 4 h y espolvorea cacao."
-      ]
+      ],
+      "emoji": "☕"
     },
     {
       "nombre": "Crepes de avena",
@@ -416,7 +432,8 @@ const RECEITAS = {
         "Vierte una porción fina.",
         "Cocina 1 min por cada lado.",
         "Rellena con fruta o queso crema."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Muffins de zanahoria",
@@ -441,7 +458,8 @@ const RECEITAS = {
         "Rellena moldes de muffin.",
         "Hornea 20-25 min.",
         "Deja enfriar antes de desmoldar."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Arroz con leche sin azúcar",
@@ -466,7 +484,8 @@ const RECEITAS = {
         "Cocina a fuego bajo 20 min revolviendo.",
         "Retira la canela.",
         "Sirve frío con canela en polvo."
-      ]
+      ],
+      "emoji": "🍚"
     },
     {
       "nombre": "Pie de limón sin azúcar",
@@ -490,7 +509,8 @@ const RECEITAS = {
         "Vierte sobre la base fría.",
         "Prepara merengue con claras y stevia.",
         "Cubre y gratina 5 min."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Paletas heladas de fresa",
@@ -514,7 +534,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela mínimo 5 horas.",
         "Desmolda pasando agua tibia por fuera."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Bizcocho de naranja sin azúcar",
@@ -539,7 +560,8 @@ const RECEITAS = {
         "Incorpora harina de almendra y polvo.",
         "Vierte en molde engrasado.",
         "Hornea 35 min y verifica con palillo."
-      ]
+      ],
+      "emoji": "🎂"
     },
     {
       "nombre": "Pudín de chocolate sin azúcar",
@@ -563,7 +585,8 @@ const RECEITAS = {
         "Cuando espese, retira del fuego.",
         "Vierte en copas.",
         "Refrigera 1 hora antes de servir."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Strudel de manzana sin azúcar",
@@ -587,7 +610,8 @@ const RECEITAS = {
         "Extiende la masa y coloca el relleno.",
         "Enrolla con cuidado.",
         "Hornea a 180°C por 35 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Coco glacé sin azúcar",
@@ -612,7 +636,8 @@ const RECEITAS = {
         "Congela 15 min.",
         "Baña en chocolate amargo derretido.",
         "Refrigera hasta endurecer."
-      ]
+      ],
+      "emoji": "🥥"
     },
     {
       "nombre": "Pavlova sin azúcar",
@@ -637,7 +662,8 @@ const RECEITAS = {
         "Forma disco en bandeja con papel.",
         "Hornea 1 h 30 min sin abrir.",
         "Deja enfriar y decora con crema y frutos."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Barritas de avena y almendra",
@@ -661,7 +687,8 @@ const RECEITAS = {
         "Presiona en molde rectangular.",
         "Refrigera 1 hora.",
         "Corta en barras y conserva refrigerado."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Mermelada de fresa sin azúcar",
@@ -685,7 +712,8 @@ const RECEITAS = {
         "Hidrata y agrega la gelatina.",
         "Cocina 10 min más revolviendo.",
         "Envasa en frasco y refrigera."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Croissant de almendra",
@@ -710,7 +738,8 @@ const RECEITAS = {
         "Estira y corta en triángulos.",
         "Enrolla desde la base hasta la punta.",
         "Hornea a 180°C por 20 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Volcán de chocolate sin azúcar",
@@ -735,7 +764,8 @@ const RECEITAS = {
         "Agrega harina y vainilla.",
         "Vierte en moldes individuales engrasados.",
         "Hornea a 200°C exactamente 12 min."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Dulce de leche sin azúcar",
@@ -757,7 +787,8 @@ const RECEITAS = {
         "Continúa revolviendo 1 hora.",
         "Agrega vainilla al final.",
         "Envasa caliente y refrigera."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Tarta de coco sin azúcar",
@@ -782,7 +813,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min a 175°C.",
         "Refrigera antes de servir."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Panna cotta de vainilla",
@@ -806,7 +838,8 @@ const RECEITAS = {
         "Vierte en moldes.",
         "Refrigera 3 horas.",
         "Desmolda y decora."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Bizcocho de yogur sin azúcar",
@@ -830,7 +863,8 @@ const RECEITAS = {
         "Vierte en molde.",
         "Hornea a 175°C por 35 min.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🎂"
     },
     {
       "nombre": "Tartaletas de frutos rojos",
@@ -855,7 +889,8 @@ const RECEITAS = {
         "Coloca los frutos rojos.",
         "Glasea con gelatina.",
         "Refrigera 1 hora."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Helado de pistache",
@@ -880,7 +915,8 @@ const RECEITAS = {
         "Añade pistaches y crema.",
         "Congela revolviendo cada hora.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Magdalenas de limón",
@@ -904,7 +940,8 @@ const RECEITAS = {
         "Rellena moldes de magdalena.",
         "Hornea a 180°C por 20 min.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Semifrío de maracuyá",
@@ -928,7 +965,8 @@ const RECEITAS = {
         "Mezcla todo.",
         "Vierte sobre la base.",
         "Congela 4 horas."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Torta de zanahoria sin azúcar",
@@ -953,7 +991,8 @@ const RECEITAS = {
         "Deja enfriar.",
         "Prepara cobertura de queso crema.",
         "Decora con nueces."
-      ]
+      ],
+      "emoji": "🎂"
     },
     {
       "nombre": "Donuts al horno sin azúcar",
@@ -977,7 +1016,8 @@ const RECEITAS = {
         "Deja enfriar.",
         "Prepara glaseado.",
         "Baña los donuts."
-      ]
+      ],
+      "emoji": "🍩"
     },
     {
       "nombre": "Postre de café y chocolate",
@@ -1001,7 +1041,8 @@ const RECEITAS = {
         "Bate claras e incorpora.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Mousse de maracuyá",
@@ -1026,7 +1067,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de mango",
@@ -1051,7 +1093,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de frambuesa",
@@ -1076,7 +1119,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de durazno",
@@ -1101,7 +1145,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de guanábana",
@@ -1126,7 +1171,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de guayaba",
@@ -1151,7 +1197,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de tamarindo",
@@ -1176,7 +1223,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de carambola",
@@ -1201,7 +1249,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de pitahaya",
@@ -1226,7 +1275,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Mousse de papaya",
@@ -1251,7 +1301,8 @@ const RECEITAS = {
         "Mezcla todo con stevia.",
         "Vierte en copas.",
         "Refrigera 2 horas."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Helado de vainilla y coco",
@@ -1276,7 +1327,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Helado de menta y chocolate",
@@ -1301,7 +1353,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Helado de fresa y crema",
@@ -1326,7 +1379,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Helado de cacao y avellana",
@@ -1351,7 +1405,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Helado de canela y manzana",
@@ -1376,7 +1431,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Helado de limón y jengibre",
@@ -1401,7 +1457,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Helado de maracuyá y coco",
@@ -1426,7 +1483,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Helado de café y vainilla",
@@ -1451,7 +1509,8 @@ const RECEITAS = {
         "Congela revolviendo.",
         "Repite 3 veces.",
         "Sirve cremoso."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Tarta de chocolate y avellana",
@@ -1476,7 +1535,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Tarta de limón y merengue",
@@ -1501,7 +1561,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Tarta de manzana y canela",
@@ -1526,7 +1587,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Tarta de queso y frutos rojos",
@@ -1551,7 +1613,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Tarta de coco y maracuyá",
@@ -1576,7 +1639,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Tarta de café y crema",
@@ -1601,7 +1665,8 @@ const RECEITAS = {
         "Vierte sobre la base.",
         "Hornea 30 min.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Suspiro de limón",
@@ -1625,7 +1690,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de rosas",
@@ -1649,7 +1715,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de lavanda",
@@ -1673,7 +1740,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de naranja",
@@ -1697,7 +1765,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de frambuesa",
@@ -1721,7 +1790,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de café",
@@ -1745,7 +1815,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de coco",
@@ -1769,7 +1840,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de matcha",
@@ -1793,7 +1865,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de canela",
@@ -1817,7 +1890,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Suspiro de pistacho",
@@ -1841,7 +1915,8 @@ const RECEITAS = {
         "Forma suspiros.",
         "Hornea 1 h a 100°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Postre de chocolate y café en vaso",
@@ -1865,7 +1940,8 @@ const RECEITAS = {
         "Decora.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Postre de vainilla y frutos rojos en vaso",
@@ -1889,7 +1965,8 @@ const RECEITAS = {
         "Decora.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Postre de caramelo sin azúcar en vaso",
@@ -1913,7 +1990,8 @@ const RECEITAS = {
         "Decora.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Postre de limón y menta en vaso",
@@ -1937,7 +2015,8 @@ const RECEITAS = {
         "Decora.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Postre de coco y piña en vaso",
@@ -1961,7 +2040,8 @@ const RECEITAS = {
         "Decora.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍮"
     },
     {
       "nombre": "Cake pop de vainilla",
@@ -1984,7 +2064,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de chocolate",
@@ -2007,7 +2088,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Cake pop de limón",
@@ -2030,7 +2112,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de café",
@@ -2053,7 +2136,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de coco",
@@ -2076,7 +2160,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de naranja",
@@ -2099,7 +2184,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de fresa",
@@ -2122,7 +2208,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de almendra",
@@ -2145,7 +2232,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de pistacho",
@@ -2168,7 +2256,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Cake pop de canela",
@@ -2191,7 +2280,8 @@ const RECEITAS = {
         "Inserta palitos.",
         "Congela 15 min.",
         "Baña en chocolate."
-      ]
+      ],
+      "emoji": "🍭"
     },
     {
       "nombre": "Parfait de mango",
@@ -2215,7 +2305,8 @@ const RECEITAS = {
         "Decora con fruta.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Parfait de maracuyá",
@@ -2239,7 +2330,8 @@ const RECEITAS = {
         "Decora con fruta.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Parfait de frutos rojos",
@@ -2263,7 +2355,8 @@ const RECEITAS = {
         "Decora con fruta.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Parfait de durazno",
@@ -2287,7 +2380,8 @@ const RECEITAS = {
         "Decora con fruta.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Parfait de guayaba",
@@ -2311,7 +2405,8 @@ const RECEITAS = {
         "Decora con fruta.",
         "Refrigera.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Brownie de cacao y remolacha",
@@ -2336,7 +2431,8 @@ const RECEITAS = {
         "Vierte en molde.",
         "Hornea 30 min a 180°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Tarta de almendra y naranja",
@@ -2361,7 +2457,8 @@ const RECEITAS = {
         "Vierte en molde.",
         "Hornea a 175°C por 35 min.",
         "Sirve con naranja confitada."
-      ]
+      ],
+      "emoji": "🥧"
     },
     {
       "nombre": "Parfait de vainilla y frutos rojos",
@@ -2385,6 +2482,390 @@ const RECEITAS = {
         "Espolvorea chía.",
         "Refrigera.",
         "Sirve frío."
+      ],
+      "emoji": "🍨"
+    },
+    {
+      "nombre": "Tarta de queso New York sin azúcar",
+      "tiempo": "1 h 30 min",
+      "porciones": 10,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🧀",
+      "ingredientes": [
+        "400g queso crema",
+        "3 huevos",
+        "150ml crema agria",
+        "Stevia al gusto",
+        "1 cdta vainilla",
+        "Base de almendra"
+      ],
+      "pasos": [
+        "Prepara base de almendra y hornea 10 min.",
+        "Bate queso crema con stevia.",
+        "Agrega huevos uno a uno.",
+        "Añade crema agria y vainilla.",
+        "Hornea a 160°C por 50 min.",
+        "Enfría 2 h antes de servir."
+      ]
+    },
+    {
+      "nombre": "Donut glaseado de fresa",
+      "tiempo": "45 min",
+      "porciones": 10,
+      "tags": [
+        "Sin azúcar",
+        "Al horno"
+      ],
+      "emoji": "🍩",
+      "ingredientes": [
+        "200g harina de avena",
+        "2 huevos",
+        "100ml leche",
+        "Stevia al gusto",
+        "Glaseado de fresa sin azúcar",
+        "Sprinkles naturales opcionales"
+      ],
+      "pasos": [
+        "Mezcla la masa.",
+        "Rellena molde de donuts.",
+        "Hornea a 180°C por 15 min.",
+        "Deja enfriar completamente.",
+        "Prepara glaseado de fresa.",
+        "Baña y decora."
+      ]
+    },
+    {
+      "nombre": "Tarta de chocolate belga",
+      "tiempo": "1 h",
+      "porciones": 8,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🍫",
+      "ingredientes": [
+        "200g chocolate amargo 85%",
+        "150g mantequilla",
+        "4 huevos",
+        "Stevia al gusto",
+        "50g harina de almendra",
+        "Cacao en polvo para espolvorear"
+      ],
+      "pasos": [
+        "Derrite chocolate con mantequilla.",
+        "Bate huevos con stevia.",
+        "Une ambas mezclas.",
+        "Agrega harina de almendra.",
+        "Hornea a 170°C por 30 min.",
+        "Espolvorea cacao y sirve."
+      ]
+    },
+    {
+      "nombre": "Mochi de coco sin azúcar",
+      "tiempo": "30 min",
+      "porciones": 12,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "⚪",
+      "ingredientes": [
+        "200g almidón de arroz glutinoso",
+        "200ml leche de coco",
+        "Stevia al gusto",
+        "Coco rallado para cubrir",
+        "Relleno de pasta de judía roja sin azúcar"
+      ],
+      "pasos": [
+        "Mezcla almidón con leche y stevia.",
+        "Cocina en microondas 2 min.",
+        "Revuelve y repite 2 veces más.",
+        "Deja enfriar.",
+        "Forma bolitas con relleno.",
+        "Cubre en coco rallado."
+      ]
+    },
+    {
+      "nombre": "Crepe suzette sin azúcar",
+      "tiempo": "30 min",
+      "porciones": 6,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🫓",
+      "ingredientes": [
+        "150g harina de avena",
+        "2 huevos",
+        "250ml leche",
+        "Stevia al gusto",
+        "Jugo de naranja natural",
+        "Ralladura de naranja"
+      ],
+      "pasos": [
+        "Prepara la masa de crepes.",
+        "Cocina los crepes finos.",
+        "Prepara salsa de naranja sin azúcar.",
+        "Dobla los crepes en cuartos.",
+        "Calienta en la salsa de naranja.",
+        "Flambea con licor de naranja opcional."
+      ]
+    },
+    {
+      "nombre": "Cannoli siciliano sin azúcar",
+      "tiempo": "1 h",
+      "porciones": 10,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🧁",
+      "ingredientes": [
+        "Masa de cannoli sin azúcar",
+        "300g ricotta",
+        "Stevia al gusto",
+        "Ralladura de naranja",
+        "Pistachos picados",
+        "Chocolate amargo rallado"
+      ],
+      "pasos": [
+        "Prepara y estira la masa.",
+        "Envuelve en tubos metálicos.",
+        "Fríe o hornea la masa.",
+        "Mezcla ricotta con stevia y naranja.",
+        "Rellena los tubos fríos.",
+        "Decora con pistachos y chocolate."
+      ]
+    },
+    {
+      "nombre": "Éclair de café sin azúcar",
+      "tiempo": "1 h 15 min",
+      "porciones": 12,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "☕",
+      "ingredientes": [
+        "Masa choux sin azúcar",
+        "Crema pastelera de café sin azúcar",
+        "Glaseado de chocolate amargo",
+        "Café espresso",
+        "Stevia al gusto",
+        "Vainilla"
+      ],
+      "pasos": [
+        "Prepara la masa choux.",
+        "Forma bastones y hornea.",
+        "Prepara crema de café con stevia.",
+        "Rellena los éclairs.",
+        "Prepara glaseado de chocolate.",
+        "Baña y refrigera."
+      ]
+    },
+    {
+      "nombre": "Macaron de frambuesa sin azúcar",
+      "tiempo": "2 h",
+      "porciones": 20,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🍬",
+      "ingredientes": [
+        "150g harina de almendra fina",
+        "Stevia en polvo al gusto",
+        "3 claras de huevo",
+        "Colorante rojo natural",
+        "Relleno de frambuesa sin azúcar"
+      ],
+      "pasos": [
+        "Tamiza harina de almendra.",
+        "Bate claras a punto de nieve con stevia.",
+        "Incorpora la harina con movimientos envolventes.",
+        "Forma círculos con manga.",
+        "Reposa 30 min antes de hornear.",
+        "Hornea a 150°C por 13 min y rellena."
+      ]
+    },
+    {
+      "nombre": "Baklava sin azúcar con miel de agave",
+      "tiempo": "1 h 30 min",
+      "porciones": 24,
+      "tags": [
+        "Sin azúcar blanca"
+      ],
+      "emoji": "🔶",
+      "ingredientes": [
+        "Masa filo sin azúcar",
+        "300g nueces y pistachos",
+        "Stevia al gusto",
+        "4 cdas miel de agave",
+        "Canela",
+        "Agua de rosas"
+      ],
+      "pasos": [
+        "Pica los frutos secos.",
+        "Alterna capas de masa filo y nueces.",
+        "Corta en rombos antes de hornear.",
+        "Hornea a 180°C por 35 min.",
+        "Prepara almíbar con stevia y agua de rosas.",
+        "Baña caliente y deja reposar."
+      ]
+    },
+    {
+      "nombre": "Pastel de zanahoria con frosting",
+      "tiempo": "1 h",
+      "porciones": 12,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🥕",
+      "ingredientes": [
+        "300g zanahoria rallada",
+        "200g harina de almendra",
+        "4 huevos",
+        "Stevia al gusto",
+        "Canela y jengibre",
+        "Frosting de queso crema sin azúcar"
+      ],
+      "pasos": [
+        "Mezcla zanahoria con huevos.",
+        "Agrega harina, especias y stevia.",
+        "Hornea a 175°C por 40 min.",
+        "Deja enfriar completamente.",
+        "Prepara frosting de queso crema.",
+        "Cubre y decora con zanahoria."
+      ]
+    },
+    {
+      "nombre": "Volcán de maracuyá sin azúcar",
+      "tiempo": "25 min",
+      "porciones": 4,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🌋",
+      "ingredientes": [
+        "100g chocolate blanco sin azúcar",
+        "3 huevos",
+        "Pulpa de maracuyá",
+        "Stevia al gusto",
+        "2 cdas harina de almendra",
+        "Mantequilla para moldes"
+      ],
+      "pasos": [
+        "Derrite chocolate blanco.",
+        "Bate huevos con stevia.",
+        "Mezcla con maracuyá y chocolate.",
+        "Agrega harina.",
+        "Vierte en moldes engrasados.",
+        "Hornea a 200°C exactamente 12 min."
+      ]
+    },
+    {
+      "nombre": "Paleta mexicana de tamarindo sin azúcar",
+      "tiempo": "5 h",
+      "porciones": 8,
+      "tags": [
+        "Sin azúcar",
+        "Vegano"
+      ],
+      "emoji": "🍭",
+      "ingredientes": [
+        "200g pulpa de tamarindo",
+        "500ml agua",
+        "Stevia al gusto",
+        "Chile en polvo al gusto",
+        "Sal",
+        "Jugo de limón"
+      ],
+      "pasos": [
+        "Disuelve el tamarindo en agua.",
+        "Cuela bien.",
+        "Agrega stevia, sal y limón.",
+        "Añade chile al gusto.",
+        "Vierte en moldes.",
+        "Congela mínimo 5 horas."
+      ]
+    },
+    {
+      "nombre": "Brazo gitano de vainilla y fresa",
+      "tiempo": "50 min",
+      "porciones": 10,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🌸",
+      "ingredientes": [
+        "4 huevos separados",
+        "100g harina de almendra",
+        "Stevia al gusto",
+        "1 cdta vainilla",
+        "Crema batida sin azúcar",
+        "200g fresas en rodajas"
+      ],
+      "pasos": [
+        "Bate yemas con stevia.",
+        "Agrega harina y vainilla.",
+        "Incorpora claras a punto de nieve.",
+        "Extiende en bandeja y hornea 12 min.",
+        "Enrróllalo tibio con paño.",
+        "Rellena con crema y fresas."
+      ]
+    },
+    {
+      "nombre": "Suspiro limeño sin azúcar",
+      "tiempo": "45 min",
+      "porciones": 8,
+      "tags": [
+        "Sin azúcar",
+        "Sin gluten"
+      ],
+      "emoji": "🍮",
+      "ingredientes": [
+        "400ml leche condensada sin azúcar",
+        "400ml leche evaporada",
+        "3 yemas de huevo",
+        "3 claras para merengue",
+        "Stevia al gusto",
+        "Canela y oporto sin azúcar"
+      ],
+      "pasos": [
+        "Cocina leche condensada con evaporada y yemas.",
+        "Revuelve hasta espesar.",
+        "Vierte en copas individuales.",
+        "Prepara merengue con claras y stevia.",
+        "Cubre cada copa con merengue.",
+        "Espolvorea canela y sirve."
+      ]
+    },
+    {
+      "nombre": "Alfajor de maicena sin azúcar",
+      "tiempo": "1 h",
+      "porciones": 16,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🍪",
+      "ingredientes": [
+        "200g maicena",
+        "100g harina de avena",
+        "100g mantequilla",
+        "Stevia al gusto",
+        "2 yemas",
+        "Dulce de leche sin azúcar y coco rallado"
+      ],
+      "pasos": [
+        "Mezcla maicena con harina.",
+        "Incorpora mantequilla y yemas.",
+        "Agrega stevia y amasa suave.",
+        "Estira y corta círculos.",
+        "Hornea a 170°C por 10 min.",
+        "Une con dulce de leche y pasa por coco."
       ]
     }
   ],
@@ -2412,7 +2893,8 @@ const RECEITAS = {
         "Vierte en molde de pan engrasado.",
         "Espolvorea semillas.",
         "Hornea 45 min."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Rolls de canela sin azúcar",
@@ -2436,7 +2918,8 @@ const RECEITAS = {
         "Unta mantequilla, stevia y canela.",
         "Enrolla y corta en rodajas.",
         "Hornea a 180°C por 25 min."
-      ]
+      ],
+      "emoji": "🌀"
     },
     {
       "nombre": "Bagel de semillas",
@@ -2461,7 +2944,8 @@ const RECEITAS = {
         "Forma rosquillas.",
         "Pinta con huevo y cubre con semillas.",
         "Hornea a 180°C por 25 min."
-      ]
+      ],
+      "emoji": "🥯"
     },
     {
       "nombre": "Pan de banana sin azúcar",
@@ -2486,7 +2970,8 @@ const RECEITAS = {
         "Vierte en molde de pan.",
         "Hornea a 175°C por 45 min.",
         "Verifica con palillo antes de retirar."
-      ]
+      ],
+      "emoji": "🍌"
     },
     {
       "nombre": "Focaccia de hierbas sin gluten",
@@ -2511,7 +2996,8 @@ const RECEITAS = {
         "Haz hoyuelos con los dedos.",
         "Cubre con romero y sal gruesa.",
         "Hornea a 200°C por 25 min."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Pan de zanahoria y jengibre",
@@ -2536,7 +3022,8 @@ const RECEITAS = {
         "Vierte en molde.",
         "Hornea 50 min.",
         "Deja enfriar completamente."
-      ]
+      ],
+      "emoji": "🥕"
     },
     {
       "nombre": "Pan nube keto",
@@ -2560,7 +3047,8 @@ const RECEITAS = {
         "Incorpora claras con suavidad.",
         "Forma redondeles en bandeja.",
         "Hornea a 150°C por 20 min."
-      ]
+      ],
+      "emoji": "☁️"
     },
     {
       "nombre": "Palitos de queso sin harina",
@@ -2585,7 +3073,8 @@ const RECEITAS = {
         "Agrega condimentos.",
         "Forma palitos finos.",
         "Hornea 15 min hasta dorar."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Pan pita sin gluten",
@@ -2610,7 +3099,8 @@ const RECEITAS = {
         "Aplana con rodillo.",
         "Cocina en sartén caliente sin aceite.",
         "Cubre con paño para mantener suave."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Medialunas sin azúcar",
@@ -2634,7 +3124,8 @@ const RECEITAS = {
         "Extiende y corta triángulos.",
         "Enrolla desde base hasta punta.",
         "Hornea a 180°C por 18 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de semillas integrales",
@@ -2658,7 +3149,8 @@ const RECEITAS = {
         "Amasa 10 min.",
         "Deja leudar 1 hora.",
         "Hornea a 200°C por 30 min."
-      ]
+      ],
+      "emoji": "🌾"
     },
     {
       "nombre": "Brioche sin azúcar",
@@ -2682,7 +3174,8 @@ const RECEITAS = {
         "Amasa hasta suave y brillante.",
         "Deja leudar 1 h 30 min.",
         "Hornea a 180°C por 25 min."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Panecillos de ajo sin gluten",
@@ -2707,7 +3200,8 @@ const RECEITAS = {
         "Forma bollos pequeños.",
         "Coloca en bandeja engrasada.",
         "Hornea a 180°C por 20 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de maíz sin azúcar",
@@ -2732,7 +3226,8 @@ const RECEITAS = {
         "Mezcla secos con húmedos.",
         "Vierte en molde rectangular.",
         "Hornea 30 min."
-      ]
+      ],
+      "emoji": "🌽"
     },
     {
       "nombre": "Waffles de avena",
@@ -2757,7 +3252,8 @@ const RECEITAS = {
         "Cocina según wafflera.",
         "Sirve con frutos rojos.",
         "Espolvorea stevia en polvo."
-      ]
+      ],
+      "emoji": "🧇"
     },
     {
       "nombre": "Scones sin azúcar",
@@ -2781,7 +3277,8 @@ const RECEITAS = {
         "Amasa mínimo.",
         "Corta con cortador redondo.",
         "Hornea a 200°C por 15 min."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Panqueques de banana",
@@ -2805,7 +3302,8 @@ const RECEITAS = {
         "Calienta sartén con aceite de coco.",
         "Vierte cucharadas de mezcla.",
         "Cocina 2 min por lado."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Pan de espinaca y queso",
@@ -2830,7 +3328,8 @@ const RECEITAS = {
         "Condimenta con sal y pimienta.",
         "Vierte en molde.",
         "Hornea a 180°C por 35 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Tortillas de yuca",
@@ -2854,7 +3353,8 @@ const RECEITAS = {
         "Divide en 8 bolitas.",
         "Aplana con prensa tortillas.",
         "Cocina en comal caliente 2 min por lado."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Pan de centeno sin azúcar",
@@ -2878,7 +3378,8 @@ const RECEITAS = {
         "Agrega comino y amasa 8 min.",
         "Deja leudar 1 h 30 min.",
         "Hornea a 200°C por 35 min."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Muffins ingleses sin azúcar",
@@ -2902,7 +3403,8 @@ const RECEITAS = {
         "Forma discos de 1cm de grosor.",
         "Espolvorea harina de maíz.",
         "Cocina en sartén seca 7 min por lado."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Churros al horno sin azúcar",
@@ -2926,7 +3428,8 @@ const RECEITAS = {
         "Coloca en manga con boquilla estrella.",
         "Forma churros en bandeja.",
         "Hornea a 200°C por 20 min."
-      ]
+      ],
+      "emoji": "🎋"
     },
     {
       "nombre": "Pan de calabaza",
@@ -2951,7 +3454,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Vierte en molde de pan.",
         "Hornea 45 min."
-      ]
+      ],
+      "emoji": "🎃"
     },
     {
       "nombre": "Tostadas de semillas",
@@ -2977,7 +3481,8 @@ const RECEITAS = {
         "Marca cuadrados con espátula.",
         "Hornea a 160°C por 25 min.",
         "Rompe en trozos al enfriarse."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Pan de remolacha",
@@ -3002,7 +3507,8 @@ const RECEITAS = {
         "Condimenta con sal.",
         "Vierte en molde.",
         "Hornea 40 min."
-      ]
+      ],
+      "emoji": "🔴"
     },
     {
       "nombre": "Pan de cúrcuma y semillas",
@@ -3027,7 +3533,8 @@ const RECEITAS = {
         "Amasa.",
         "Deja leudar 1 hora.",
         "Hornea a 200°C por 30 min."
-      ]
+      ],
+      "emoji": "🟡"
     },
     {
       "nombre": "Galletas de mantequilla sin azúcar",
@@ -3051,7 +3558,8 @@ const RECEITAS = {
         "Refrigera 15 min.",
         "Forma galletas.",
         "Hornea a 175°C por 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Pan plano de ajo",
@@ -3076,7 +3584,8 @@ const RECEITAS = {
         "Calienta sartén con aceite.",
         "Cocina el pan 3 min por lado.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Rosca de Reyes sin azúcar",
@@ -3100,7 +3609,8 @@ const RECEITAS = {
         "Amasa y deja leudar 1 h.",
         "Forma la rosca.",
         "Hornea a 180°C por 30 min."
-      ]
+      ],
+      "emoji": "🍩"
     },
     {
       "nombre": "Crackers de linaza",
@@ -3126,7 +3636,8 @@ const RECEITAS = {
         "Extiende fino en bandeja.",
         "Marca cuadrados.",
         "Hornea a 160°C por 20 min."
-      ]
+      ],
+      "emoji": "🟤"
     },
     {
       "nombre": "Pan de proteína de suero",
@@ -3151,7 +3662,8 @@ const RECEITAS = {
         "Hornea a 175°C por 40 min.",
         "Verifica con palillo.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "💪"
     },
     {
       "nombre": "Bizcochos de coco",
@@ -3175,7 +3687,8 @@ const RECEITAS = {
         "Forma montoncitos.",
         "Coloca en bandeja.",
         "Hornea a 160°C por 18 min."
-      ]
+      ],
+      "emoji": "🎂"
     },
     {
       "nombre": "Pan de berenjena",
@@ -3200,7 +3713,8 @@ const RECEITAS = {
         "Condimenta.",
         "Vierte en molde.",
         "Hornea a 180°C por 35 min."
-      ]
+      ],
+      "emoji": "🟣"
     },
     {
       "nombre": "Pepas de guayaba sin azúcar",
@@ -3224,7 +3738,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Haz hoyuelos y rellena con mermelada.",
         "Hornea a 175°C por 15 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Pan de aceitunas y romero",
@@ -3248,7 +3763,8 @@ const RECEITAS = {
         "Amasa y deja leudar.",
         "Forma el pan.",
         "Hornea a 200°C por 30 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de batata",
@@ -3273,7 +3789,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de calabacín",
@@ -3298,7 +3815,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de maíz dulce",
@@ -3323,7 +3841,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🌽"
     },
     {
       "nombre": "Pan de apio",
@@ -3348,7 +3867,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de puerro",
@@ -3373,7 +3893,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de brócoli",
@@ -3398,7 +3919,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de coliflor",
@@ -3423,7 +3945,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de espinaca y ricotta",
@@ -3448,7 +3971,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥬"
     },
     {
       "nombre": "Pan de aceitunas negras",
@@ -3473,7 +3997,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de tomate seco",
@@ -3498,7 +4023,8 @@ const RECEITAS = {
         "Sazona.",
         "Hornea a 175°C.",
         "Deja enfriar."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Galletas de jengibre",
@@ -3522,7 +4048,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de naranja y chocolate",
@@ -3546,7 +4073,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Galletas de lavanda",
@@ -3570,7 +4098,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de sésamo",
@@ -3594,7 +4123,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de semillas de amapola",
@@ -3618,7 +4148,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de cardamomo",
@@ -3642,7 +4173,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de rosas",
@@ -3666,7 +4198,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Galletas de té verde matcha",
@@ -3690,7 +4223,8 @@ const RECEITAS = {
         "Agrega harina.",
         "Forma galletas.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍪"
     },
     {
       "nombre": "Muffin de arándanos",
@@ -3714,7 +4248,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de naranja confitada",
@@ -3738,7 +4273,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de chocolate amargo",
@@ -3762,7 +4298,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Muffin de plátano y nuez",
@@ -3786,7 +4323,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de manzana y canela",
@@ -3810,7 +4348,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de zanahoria y coco",
@@ -3834,7 +4373,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de calabaza y jengibre",
@@ -3858,7 +4398,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Muffin de espinaca y queso",
@@ -3882,7 +4423,8 @@ const RECEITAS = {
         "Rellena moldes.",
         "Hornea 20 min a 180°C.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Pan de molde de centeno y miel de agave",
@@ -3906,7 +4448,8 @@ const RECEITAS = {
         "Deja leudar.",
         "Forma y hornea.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de molde de avena y semillas",
@@ -3930,7 +4473,8 @@ const RECEITAS = {
         "Deja leudar.",
         "Forma y hornea.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Pan de molde de trigo sarraceno",
@@ -3954,7 +4498,8 @@ const RECEITAS = {
         "Deja leudar.",
         "Forma y hornea.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de molde de espelta integral",
@@ -3978,7 +4523,8 @@ const RECEITAS = {
         "Deja leudar.",
         "Forma y hornea.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de molde de amaranto",
@@ -4002,7 +4548,8 @@ const RECEITAS = {
         "Deja leudar.",
         "Forma y hornea.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Bollo de canela y nuez",
@@ -4026,7 +4573,8 @@ const RECEITAS = {
         "Rellena con canela y nuez.",
         "Forma bollos.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Bollo de crema de coco",
@@ -4050,7 +4598,8 @@ const RECEITAS = {
         "Rellena con crema de coco.",
         "Forma bollos.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Bollo de queso y jamón",
@@ -4074,7 +4623,8 @@ const RECEITAS = {
         "Rellena con queso y jamón.",
         "Forma bollos.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Bollo de chocolate amargo",
@@ -4098,7 +4648,8 @@ const RECEITAS = {
         "Rellena con chocolate amargo.",
         "Forma bollos.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Bollo de frutas secas sin azúcar",
@@ -4122,7 +4673,8 @@ const RECEITAS = {
         "Rellena con frutas secas sin azúcar.",
         "Forma bollos.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Pan de nuez y miel de agave",
@@ -4146,7 +4698,8 @@ const RECEITAS = {
         "Amasa.",
         "Deja leudar 1 hora.",
         "Hornea a 200°C."
-      ]
+      ],
+      "emoji": "🥐"
     },
     {
       "nombre": "Galletas integrales de avena",
@@ -4170,6 +4723,108 @@ const RECEITAS = {
         "Forma galletas.",
         "Hornea 12 min a 180°C.",
         "Deja enfriar."
+      ],
+      "emoji": "🍪"
+    },
+    {
+      "nombre": "Cinnamon roll sin azúcar",
+      "tiempo": "2 h",
+      "porciones": 8,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🌀",
+      "ingredientes": [
+        "300g harina de avena",
+        "Levadura seca",
+        "2 huevos",
+        "Stevia al gusto",
+        "3 cdtas canela",
+        "50g mantequilla blanda"
+      ],
+      "pasos": [
+        "Activa la levadura.",
+        "Prepara la masa y deja leudar 1 h.",
+        "Extiende y unta mantequilla.",
+        "Espolvorea stevia y canela.",
+        "Enrolla y corta en rodajas.",
+        "Hornea a 180°C por 22 min."
+      ]
+    },
+    {
+      "nombre": "Croissant de chocolate amargo",
+      "tiempo": "2 h 30 min",
+      "porciones": 8,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🥐",
+      "ingredientes": [
+        "250g harina de almendra",
+        "100g mantequilla fría",
+        "2 huevos",
+        "Stevia al gusto",
+        "80g chocolate amargo 85%",
+        "1 cdta vainilla"
+      ],
+      "pasos": [
+        "Mezcla harina con mantequilla.",
+        "Agrega huevos y stevia.",
+        "Refrigera 30 min.",
+        "Derrite el chocolate.",
+        "Enrolla con chocolate dentro.",
+        "Hornea a 185°C por 20 min."
+      ]
+    },
+    {
+      "nombre": "Churro relleno de dulce de leche sin azúcar",
+      "tiempo": "40 min",
+      "porciones": 12,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🎋",
+      "ingredientes": [
+        "200g harina de avena",
+        "200ml agua",
+        "50g mantequilla",
+        "2 huevos",
+        "Stevia al gusto",
+        "Dulce de leche sin azúcar para rellenar"
+      ],
+      "pasos": [
+        "Hierve agua con mantequilla.",
+        "Agrega harina y revuelve fuerte.",
+        "Deja enfriar e incorpora huevos.",
+        "Forma churros con manga.",
+        "Hornea a 200°C por 22 min.",
+        "Rellena con dulce de leche."
+      ]
+    },
+    {
+      "nombre": "Pão de queijo sin azúcar",
+      "tiempo": "35 min",
+      "porciones": 20,
+      "tags": [
+        "Sin gluten",
+        "Sin azúcar"
+      ],
+      "emoji": "🧆",
+      "ingredientes": [
+        "200g almidón de yuca",
+        "100ml leche caliente",
+        "50ml aceite",
+        "1 huevo",
+        "150g queso minas rallado",
+        "Sal al gusto"
+      ],
+      "pasos": [
+        "Mezcla almidón con leche caliente.",
+        "Agrega aceite y revuelve.",
+        "Incorpora el huevo y el queso.",
+        "Forma bolitas pequeñas.",
+        "Coloca en bandeja engrasada.",
+        "Hornea a 200°C por 20 min."
       ]
     }
   ],
@@ -4198,7 +4853,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 20 min a 200°C.",
         "Agrega toppings y hornea 10 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza keto de queso",
@@ -4224,7 +4880,8 @@ const RECEITAS = {
         "Hornea 12 min a 200°C.",
         "Agrega toppings.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Pizza de harina de almendra",
@@ -4249,7 +4906,8 @@ const RECEITAS = {
         "Hornea base 15 min a 190°C.",
         "Agrega salsa y toppings.",
         "Hornea 12 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de yuca",
@@ -4274,7 +4932,8 @@ const RECEITAS = {
         "Hornea base 15 min a 200°C.",
         "Cubre con salsa y toppings.",
         "Hornea 10 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de espinaca",
@@ -4300,7 +4959,8 @@ const RECEITAS = {
         "Hornea 18 min a 190°C.",
         "Agrega toppings.",
         "Hornea 10 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza margarita sin gluten",
@@ -4325,7 +4985,8 @@ const RECEITAS = {
         "Agrega mozzarella.",
         "Hornea 12 min.",
         "Decora con albahaca fresca."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de pollo y pesto",
@@ -4351,7 +5012,8 @@ const RECEITAS = {
         "Coloca mozzarella y tomates.",
         "Hornea 12 min a 200°C.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de rúcula y jamón serrano",
@@ -4376,7 +5038,8 @@ const RECEITAS = {
         "Coloca jamón serrano al retirar.",
         "Cubre con rúcula fresca.",
         "Rocía aceite de oliva."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de champiñones y queso azul",
@@ -4402,7 +5065,8 @@ const RECEITAS = {
         "Distribuye queso azul.",
         "Hornea 12 min.",
         "Decora con romero."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Pizza dulce de manzana y canela",
@@ -4427,7 +5091,8 @@ const RECEITAS = {
         "Espolvorea stevia y canela.",
         "Agrega nueces.",
         "Hornea 15 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de atún",
@@ -4453,7 +5118,8 @@ const RECEITAS = {
         "Agrega aceitunas y cebolla.",
         "Espolvorea orégano.",
         "Hornea 10 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza vegetariana de pimientos",
@@ -4479,7 +5145,8 @@ const RECEITAS = {
         "Distribuye la mozzarella.",
         "Hornea 12 min.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de berenjena",
@@ -4505,7 +5172,8 @@ const RECEITAS = {
         "Agrega queso vegano.",
         "Hornea 10 min más.",
         "Decora con albahaca."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza blanca de ricotta",
@@ -4530,7 +5198,8 @@ const RECEITAS = {
         "Agrega espinaca.",
         "Espolvorea parmesano.",
         "Hornea 10 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza barbecue de pollo sin azúcar",
@@ -4555,7 +5224,8 @@ const RECEITAS = {
         "Agrega pollo y cebolla.",
         "Distribuye el queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de salmón ahumado",
@@ -4581,7 +5251,8 @@ const RECEITAS = {
         "Distribuye alcaparras y cebolla.",
         "Decora con eneldo.",
         "Sirve frío o tibio."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de zucchini",
@@ -4607,7 +5278,8 @@ const RECEITAS = {
         "Agrega zucchini y queso.",
         "Hornea 12 min.",
         "Decora con albahaca."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza hawaiana sin azúcar",
@@ -4632,7 +5304,8 @@ const RECEITAS = {
         "Distribuye el queso.",
         "Espolvorea orégano.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de pesto y tomates cherry",
@@ -4658,7 +5331,8 @@ const RECEITAS = {
         "Espolvorea parmesano.",
         "Hornea 10 min.",
         "Decora con albahaca."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de espárragos y jamón",
@@ -4683,7 +5357,8 @@ const RECEITAS = {
         "Coloca espárragos y jamón.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de alcachofas y aceitunas",
@@ -4708,7 +5383,8 @@ const RECEITAS = {
         "Coloca alcachofas y aceitunas.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de tofu y vegetales",
@@ -4733,7 +5409,8 @@ const RECEITAS = {
         "Coloca tofu y vegetales.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de langostinos y ajo",
@@ -4758,7 +5435,8 @@ const RECEITAS = {
         "Coloca langostinos y ajo.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de higos y queso azul",
@@ -4783,7 +5461,8 @@ const RECEITAS = {
         "Coloca higos y queso azul.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Pizza de pavo y arándanos",
@@ -4808,7 +5487,8 @@ const RECEITAS = {
         "Coloca pavo y arándanos.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de setas y trufa",
@@ -4833,7 +5513,8 @@ const RECEITAS = {
         "Coloca setas y trufa.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Pizza de maíz y pollo",
@@ -4858,7 +5539,8 @@ const RECEITAS = {
         "Coloca maíz y pollo.",
         "Agrega queso.",
         "Hornea 12 min."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de caprese",
@@ -4882,7 +5564,8 @@ const RECEITAS = {
         "Coloca caprese.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de quattro formaggi",
@@ -4906,7 +5589,8 @@ const RECEITAS = {
         "Coloca quattro formaggi.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de diávola picante",
@@ -4930,7 +5614,8 @@ const RECEITAS = {
         "Coloca diávola picante.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de mediterránea",
@@ -4954,7 +5639,8 @@ const RECEITAS = {
         "Coloca mediterránea.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de prosciutto y rúcula",
@@ -4978,7 +5664,8 @@ const RECEITAS = {
         "Coloca prosciutto y rúcula.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de vegana de temporada",
@@ -5002,7 +5689,8 @@ const RECEITAS = {
         "Coloca vegana de temporada.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     },
     {
       "nombre": "Minipizza de setas silvestres",
@@ -5026,7 +5714,8 @@ const RECEITAS = {
         "Coloca setas silvestres.",
         "Añade queso.",
         "Hornea 8 min más."
-      ]
+      ],
+      "emoji": "🍕"
     }
   ],
   "Empanadas": [
@@ -5053,7 +5742,8 @@ const RECEITAS = {
         "Extiende masa y corta círculos.",
         "Rellena y cierra con tenedor.",
         "Hornea a 180°C por 25 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de espinaca y queso",
@@ -5078,7 +5768,8 @@ const RECEITAS = {
         "Corta círculos y rellena.",
         "Cierra y pinta con huevo.",
         "Hornea a 190°C por 22 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas de carne keto",
@@ -5103,7 +5794,8 @@ const RECEITAS = {
         "Rellena con carne, aceitunas y huevo.",
         "Cierra sellando bien.",
         "Hornea a 190°C por 25 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de champiñones y queso",
@@ -5128,7 +5820,8 @@ const RECEITAS = {
         "Corta círculos y rellena.",
         "Distribuye el queso.",
         "Hornea a 185°C por 20 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas dulces de manzana",
@@ -5152,7 +5845,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra y pinta con huevo.",
         "Hornea a 180°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de atún",
@@ -5177,7 +5871,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra bien.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de ricotta y hierbas",
@@ -5202,7 +5897,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 180°C por 20 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de brócoli y queso",
@@ -5228,7 +5924,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra bien.",
         "Hornea a 185°C por 23 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas de pollo y curry",
@@ -5253,7 +5950,8 @@ const RECEITAS = {
         "Prepara masa de yuca.",
         "Rellena y cierra.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de lenteja y vegetales",
@@ -5279,7 +5977,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra bien.",
         "Hornea a 185°C por 25 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de queso y cebolla",
@@ -5304,7 +6003,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra bien.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas de batata y queso",
@@ -5329,7 +6029,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 185°C por 25 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas de mariscos",
@@ -5354,7 +6055,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 190°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de pera y queso azul",
@@ -5378,7 +6080,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 180°C por 20 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Empanadas de verduras asadas",
@@ -5404,7 +6107,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 185°C por 25 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de cerdo y manzana",
@@ -5428,7 +6132,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 185°C por 25 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de chocolate sin azúcar",
@@ -5451,7 +6156,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra bien.",
         "Hornea a 175°C por 18 min."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Empanadas de salmón y espinaca",
@@ -5477,7 +6183,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de pavo con cranberry",
@@ -5501,7 +6208,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de cordero y menta",
@@ -5525,7 +6233,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de hongos y trufa",
@@ -5549,7 +6258,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de langostinos y cilantro",
@@ -5573,7 +6283,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de pato confitado",
@@ -5597,7 +6308,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de bacalao y pimiento",
@@ -5621,7 +6333,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de codorniz asada",
@@ -5645,7 +6358,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanadas de ternera y aceitunas",
@@ -5669,7 +6383,8 @@ const RECEITAS = {
         "Corta y rellena.",
         "Cierra con tenedor.",
         "Hornea a 185°C por 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanada de pavo y cranberry sin azúcar",
@@ -5692,7 +6407,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanada de tofu y vegetales",
@@ -5715,7 +6431,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanada de quinoa y vegetales",
@@ -5738,7 +6455,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanada de garbanzo y espinaca",
@@ -5761,7 +6479,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     },
     {
       "nombre": "Empanada de hongos silvestres",
@@ -5784,7 +6503,8 @@ const RECEITAS = {
         "Prepara la masa.",
         "Rellena y cierra.",
         "Hornea 22 min."
-      ]
+      ],
+      "emoji": "🥟"
     }
   ],
   "Snacks": [
@@ -5811,7 +6531,8 @@ const RECEITAS = {
         "Mezcla con aceite y condimentos.",
         "Extiende en bandeja.",
         "Hornea 20 min hasta crujiente."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Hummus de garbanzo casero",
@@ -5837,7 +6558,8 @@ const RECEITAS = {
         "Procesa hasta cremoso.",
         "Ajusta sal.",
         "Sirve con aceite y pimentón."
-      ]
+      ],
+      "emoji": "🫘"
     },
     {
       "nombre": "Guacamole clásico",
@@ -5863,7 +6585,8 @@ const RECEITAS = {
         "Agrega cilantro y jalapeño.",
         "Ajusta la sal.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🥑"
     },
     {
       "nombre": "Palomitas de maíz sin azúcar",
@@ -5888,7 +6611,8 @@ const RECEITAS = {
         "Retira del fuego.",
         "Espolvorea sal y levadura.",
         "Agrega pimentón y mezcla."
-      ]
+      ],
+      "emoji": "🍿"
     },
     {
       "nombre": "Chips de yuca al horno",
@@ -5913,7 +6637,8 @@ const RECEITAS = {
         "Condimenta con orégano y ajo.",
         "Extiende en bandeja.",
         "Hornea a 200°C por 25 min."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Galletas de queso parmesano",
@@ -5938,7 +6663,8 @@ const RECEITAS = {
         "Aplana ligeramente.",
         "Hornea 5-7 min hasta dorar.",
         "Deja enfriar antes de retirar."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Dip de espinaca y queso",
@@ -5963,7 +6689,8 @@ const RECEITAS = {
         "Condimenta con sal y nuez moscada.",
         "Calienta en horno 10 min.",
         "Sirve caliente con tostadas."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Albóndigas de atún",
@@ -5989,7 +6716,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Coloca en bandeja con aceite.",
         "Hornea a 190°C por 15 min."
-      ]
+      ],
+      "emoji": "🍡"
     },
     {
       "nombre": "Palitos de zanahoria con dip",
@@ -6014,7 +6742,8 @@ const RECEITAS = {
         "Sirve los palitos con el dip.",
         "Decora con perejil.",
         "Exprime limón al gusto."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Tostadas de semillas con aguacate",
@@ -6040,7 +6769,8 @@ const RECEITAS = {
         "Unta sobre las tostadas.",
         "Espolvorea sésamo.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Edamame con sal y limón",
@@ -6065,7 +6795,8 @@ const RECEITAS = {
         "Agrega limón y ajo.",
         "Sirve caliente o tibio.",
         "Acompaña con salsa de soya sin azúcar."
-      ]
+      ],
+      "emoji": "🫘"
     },
     {
       "nombre": "Nachos de queso al horno",
@@ -6090,7 +6821,8 @@ const RECEITAS = {
         "Hornea 8 min hasta dorar.",
         "Retira y deja enfriar 2 min.",
         "Sirve con guacamole."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Dip de betabel",
@@ -6116,7 +6848,8 @@ const RECEITAS = {
         "Agrega sal y aceite.",
         "Procesa hasta cremoso.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Rollitos de pepino con queso",
@@ -6142,7 +6875,8 @@ const RECEITAS = {
         "Unta sobre las láminas.",
         "Coloca salmón y eneldo.",
         "Enrolla y sirve."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Chips de manzana y canela",
@@ -6166,7 +6900,8 @@ const RECEITAS = {
         "Coloca en bandeja.",
         "Hornea a 100°C por 2 horas.",
         "Deja enfriar para que crujan."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Bolitas de proteína de maní",
@@ -6191,7 +6926,8 @@ const RECEITAS = {
         "Cubre en cacao nibs opcionales.",
         "Refrigera hasta endurecer.",
         "Conserva en nevera."
-      ]
+      ],
+      "emoji": "⚫"
     },
     {
       "nombre": "Aguacate relleno de atún",
@@ -6218,7 +6954,8 @@ const RECEITAS = {
         "Condimenta con limón y sal.",
         "Rellena los aguacates.",
         "Decora con cilantro."
-      ]
+      ],
+      "emoji": "🥑"
     },
     {
       "nombre": "Barras de semillas y cacao",
@@ -6244,7 +6981,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 45 min.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Nachos de zanahoria",
@@ -6270,7 +7008,8 @@ const RECEITAS = {
         "Hornea a 200°C por 20 min.",
         "Voltea a mitad.",
         "Sirve con hummus."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Mini quiches sin masa",
@@ -6296,7 +7035,8 @@ const RECEITAS = {
         "Vierte en moldes de muffin.",
         "Hornea a 180°C por 18 min.",
         "Deja enfriar antes de desmoldar."
-      ]
+      ],
+      "emoji": "🍿"
     },
     {
       "nombre": "Palomitas de cúrcuma",
@@ -6320,7 +7060,8 @@ const RECEITAS = {
         "Retira del fuego.",
         "Agrega cúrcuma, sal y pimienta.",
         "Mezcla bien."
-      ]
+      ],
+      "emoji": "🍿"
     },
     {
       "nombre": "Chips de remolacha",
@@ -6344,7 +7085,8 @@ const RECEITAS = {
         "Coloca en bandeja.",
         "Hornea a 150°C por 45 min.",
         "Deja enfriar para crujir."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Dip de pimiento rojo asado",
@@ -6370,7 +7112,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de coliflor",
@@ -6396,7 +7139,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de brócoli",
@@ -6422,7 +7166,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de calabaza",
@@ -6448,7 +7193,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de alcachofa",
@@ -6474,7 +7220,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de edamame",
@@ -6500,7 +7247,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de aguacate y jalapeño",
@@ -6526,7 +7274,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Dip de zanahoria y jengibre",
@@ -6552,7 +7301,8 @@ const RECEITAS = {
         "Condimenta.",
         "Ajusta sal.",
         "Sirve con vegetales."
-      ]
+      ],
+      "emoji": "🫙"
     },
     {
       "nombre": "Barras de arándanos secos",
@@ -6577,7 +7327,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Barras de coco y mango",
@@ -6602,7 +7353,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Barras de chocolate amargo",
@@ -6627,7 +7379,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Barras de naranja y almendra",
@@ -6652,7 +7405,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Barras de frambuesa y vainilla",
@@ -6677,7 +7431,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Barras de café y cacao",
@@ -6702,7 +7457,8 @@ const RECEITAS = {
         "Presiona en molde.",
         "Refrigera 1 hora.",
         "Corta en barras."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Chips de batata al horno",
@@ -6726,7 +7482,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de nabo al horno",
@@ -6750,7 +7507,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de apio nabo al horno",
@@ -6774,7 +7532,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de colinabo al horno",
@@ -6798,7 +7557,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de chirivía al horno",
@@ -6822,7 +7582,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de rábano al horno",
@@ -6846,7 +7607,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de jícama al horno",
@@ -6870,7 +7632,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Chips de palmito al horno",
@@ -6894,7 +7657,8 @@ const RECEITAS = {
         "Extiende en bandeja.",
         "Hornea 35 min.",
         "Enfría."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Bolitas energéticas de cacao y maní",
@@ -6918,7 +7682,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Bolitas energéticas de almendra y vainilla",
@@ -6942,7 +7707,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "⚫"
     },
     {
       "nombre": "Bolitas energéticas de pistacho y limón",
@@ -6966,7 +7732,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "⚫"
     },
     {
       "nombre": "Bolitas energéticas de anacardo y mango",
@@ -6990,7 +7757,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "⚫"
     },
     {
       "nombre": "Bolitas energéticas de avellana y cacao",
@@ -7014,7 +7782,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Bolitas energéticas de nuez y canela",
@@ -7038,7 +7807,8 @@ const RECEITAS = {
         "Forma bolitas.",
         "Cubre en coco.",
         "Refrigera."
-      ]
+      ],
+      "emoji": "⚫"
     },
     {
       "nombre": "Mix de frutos secos con cacao nibs",
@@ -7064,7 +7834,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Mix de frutos secos con coco tostado",
@@ -7090,7 +7861,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥜"
     },
     {
       "nombre": "Mix de frutos secos con semillas de sésamo",
@@ -7116,7 +7888,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥜"
     },
     {
       "nombre": "Mix de frutos secos con arándanos secos sin azúcar",
@@ -7142,7 +7915,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥜"
     },
     {
       "nombre": "Mix de frutos secos con chips de remolacha",
@@ -7168,7 +7942,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥔"
     },
     {
       "nombre": "Mix de frutos secos con alga nori",
@@ -7194,7 +7969,8 @@ const RECEITAS = {
         "Tuéstalos 10 min.",
         "Deja enfriar.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥜"
     },
     {
       "nombre": "Palomitas de canela sin azúcar",
@@ -7217,7 +7993,8 @@ const RECEITAS = {
         "Agrega canela y stevia.",
         "Mezcla bien.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍿"
     },
     {
       "nombre": "Crema de anacardo casera",
@@ -7242,7 +8019,8 @@ const RECEITAS = {
         "Agrega sal y vainilla.",
         "Hasta cremoso.",
         "Guarda en frasco."
-      ]
+      ],
+      "emoji": "🥜"
     }
   ],
   "Desayunos": [
@@ -7268,7 +8046,8 @@ const RECEITAS = {
         "Por la mañana, revuelve.",
         "Agrega las frutas encima.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Tostadas de aguacate con huevo",
@@ -7294,7 +8073,8 @@ const RECEITAS = {
         "Pecha los huevos en agua con vinagre.",
         "Coloca sobre el aguacate.",
         "Condimenta con sal y pimentón."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Smoothie verde energizante",
@@ -7320,7 +8100,8 @@ const RECEITAS = {
         "Licúa hasta suave.",
         "Agrega hielo si deseas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Huevos revueltos con vegetales",
@@ -7346,7 +8127,8 @@ const RECEITAS = {
         "Vierte sobre los vegetales.",
         "Revuelve a fuego bajo.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Yogur con granola sin azúcar",
@@ -7370,7 +8152,8 @@ const RECEITAS = {
         "Agrega los frutos rojos.",
         "Espolvorea chía y canela.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍶"
     },
     {
       "nombre": "Frittata de espinaca y queso",
@@ -7396,7 +8179,8 @@ const RECEITAS = {
         "Mezcla con la espinaca.",
         "Vierte en sartén apta para horno.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Batido de proteína de chocolate",
@@ -7422,7 +8206,8 @@ const RECEITAS = {
         "Agrega hielo al gusto.",
         "Sirve inmediatamente.",
         "Decora con cacao en polvo."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Granola sin azúcar al horno",
@@ -7447,7 +8232,8 @@ const RECEITAS = {
         "Une mezcla seca con húmeda.",
         "Extiende en bandeja.",
         "Hornea 25 min revolviendo a mitad."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Chia pudding de mango",
@@ -7472,7 +8258,8 @@ const RECEITAS = {
         "Licúa el mango.",
         "Sirve el pudding con puré de mango.",
         "Decora con trozos de mango."
-      ]
+      ],
+      "emoji": "🟤"
     },
     {
       "nombre": "Tostadas francesas sin azúcar",
@@ -7496,7 +8283,8 @@ const RECEITAS = {
         "Cocina 2-3 min por lado.",
         "Sirve con fruta fresca.",
         "Espolvorea canela."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Bowl de acaí sin azúcar",
@@ -7522,7 +8310,8 @@ const RECEITAS = {
         "Vierte en tazón.",
         "Coloca granola y frutos.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Huevos benedictinos sin pan",
@@ -7548,7 +8337,8 @@ const RECEITAS = {
         "Agrega el jamón.",
         "Coloca los huevos encima.",
         "Bañar con salsa y decorar."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Huevos al horno con tomate",
@@ -7574,7 +8364,8 @@ const RECEITAS = {
         "Condimenta.",
         "Hornea a 200°C por 12 min.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Crepes de espinaca",
@@ -7599,7 +8390,8 @@ const RECEITAS = {
         "Calienta sartén con aceite.",
         "Cocina porciones finas.",
         "Rellena con queso."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Bowl de frutas con yogur",
@@ -7623,7 +8415,8 @@ const RECEITAS = {
         "Espolvorea chía.",
         "Sirve inmediatamente.",
         "Opcional: granola sin azúcar."
-      ]
+      ],
+      "emoji": "🍶"
     },
     {
       "nombre": "Tostadas de ricotta y fresas",
@@ -7647,7 +8440,8 @@ const RECEITAS = {
         "Coloca las fresas.",
         "Decora con menta.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Panqueques de zanahoria",
@@ -7672,7 +8466,8 @@ const RECEITAS = {
         "Calienta sartén con aceite.",
         "Cocina 2 min por lado.",
         "Sirve con fruta fresca."
-      ]
+      ],
+      "emoji": "🫓"
     },
     {
       "nombre": "Revuelto de tofu y vegetales",
@@ -7698,7 +8493,8 @@ const RECEITAS = {
         "Condimenta con cúrcuma y sal.",
         "Agrega espinaca.",
         "Cocina 2 min más."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Muffins de huevo y verduras",
@@ -7724,7 +8520,8 @@ const RECEITAS = {
         "Condimenta.",
         "Rellena moldes de muffin.",
         "Hornea 20 min."
-      ]
+      ],
+      "emoji": "🧁"
     },
     {
       "nombre": "Parfait de frutas y granola",
@@ -7748,7 +8545,8 @@ const RECEITAS = {
         "Repite las capas.",
         "Decora con fruta.",
         "Sirve frío."
-      ]
+      ],
+      "emoji": "🍨"
     },
     {
       "nombre": "Smoothie de kale y piña",
@@ -7772,7 +8570,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de remolacha y fresa",
@@ -7796,7 +8595,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de espinaca y naranja",
@@ -7820,7 +8620,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de cacao y frambuesa",
@@ -7844,7 +8645,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Smoothie de vainilla y arándano",
@@ -7868,7 +8670,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de zanahoria y mango",
@@ -7892,7 +8695,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de coco y piña",
@@ -7916,7 +8720,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de durazno y jengibre",
@@ -7940,7 +8745,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Tostadas con salmón y pepino",
@@ -7964,7 +8770,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Tostadas con queso de cabra y miel de agave",
@@ -7988,7 +8795,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Tostadas con tomate y albahaca",
@@ -8012,7 +8820,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Tostadas con hummus y zanahoria",
@@ -8036,7 +8845,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Tostadas con pavo y aguacate",
@@ -8060,7 +8870,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Tostadas con huevo y espinaca",
@@ -8084,7 +8895,8 @@ const RECEITAS = {
         "Condimenta.",
         "Agrega hierbas.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🍞"
     },
     {
       "nombre": "Bowl de mango y coco",
@@ -8107,7 +8919,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Bowl de frambuesa y chía",
@@ -8130,7 +8943,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🟤"
     },
     {
       "nombre": "Bowl de arándano y limón",
@@ -8153,7 +8967,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Bowl de piña y jengibre",
@@ -8176,7 +8991,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Bowl de durazno y vainilla",
@@ -8199,7 +9015,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Bowl de papaya y menta",
@@ -8222,7 +9039,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Bowl de kiwi y naranja",
@@ -8245,7 +9063,8 @@ const RECEITAS = {
         "Agrega granola.",
         "Espolvorea semillas.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Omelette de salmón y aguacate",
@@ -8270,7 +9089,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega salmón y aguacate.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Omelette de champiñones y queso",
@@ -8295,7 +9115,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega champiñones y queso.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Omelette de tomate y albahaca",
@@ -8320,7 +9141,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega tomate y albahaca.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Omelette de espinaca y feta",
@@ -8345,7 +9167,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega espinaca y feta.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Omelette de pollo y pimiento",
@@ -8370,7 +9193,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega pollo y pimiento.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🍳"
     },
     {
       "nombre": "Omelette de jamón y queso",
@@ -8395,7 +9219,8 @@ const RECEITAS = {
         "Cuando cuaje, rellena.",
         "Agrega jamón y queso.",
         "Dobla y sirve."
-      ]
+      ],
+      "emoji": "🧀"
     },
     {
       "nombre": "Porridge de avena con manzana",
@@ -8419,7 +9244,8 @@ const RECEITAS = {
         "Condimenta con canela.",
         "Agrega stevia.",
         "Sirve con nueces."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Wrap de espinaca con huevo",
@@ -8444,6 +9270,32 @@ const RECEITAS = {
         "Condimenta.",
         "Enrolla.",
         "Sirve caliente."
+      ],
+      "emoji": "🌯"
+    },
+    {
+      "nombre": "Tortita americana sin azúcar",
+      "tiempo": "20 min",
+      "porciones": 6,
+      "tags": [
+        "Sin azúcar"
+      ],
+      "emoji": "🥞",
+      "ingredientes": [
+        "150g harina de avena",
+        "1 cdta polvo hornear",
+        "2 huevos",
+        "150ml leche",
+        "Stevia al gusto",
+        "1 cdta vainilla"
+      ],
+      "pasos": [
+        "Mezcla ingredientes secos.",
+        "Une con huevos, leche y vainilla.",
+        "Agrega stevia.",
+        "Calienta sartén antiadherente.",
+        "Vierte porciones y cocina hasta burbujas.",
+        "Da vuelta y cocina 1 min más."
       ]
     }
   ],
@@ -8472,7 +9324,8 @@ const RECEITAS = {
         "Prueba y ajusta dulzor.",
         "Sirve con hielo y menta.",
         "Decora con rodajas de limón."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Té helado de durazno",
@@ -8498,7 +9351,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Cuela y refrigera.",
         "Sirve con hielo y menta."
-      ]
+      ],
+      "emoji": "🍦"
     },
     {
       "nombre": "Agua de horchata sin azúcar",
@@ -8523,7 +9377,8 @@ const RECEITAS = {
         "Agrega stevia y vainilla.",
         "Refrigera.",
         "Sirve con hielo y canela en polvo."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Smoothie de fresa y plátano",
@@ -8548,7 +9403,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Agrega hielo.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Agua de jamaica sin azúcar",
@@ -8574,7 +9430,8 @@ const RECEITAS = {
         "Agrega stevia y limón.",
         "Refrigera.",
         "Sirve con hielo y menta."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Golden milk sin azúcar",
@@ -8599,7 +9456,8 @@ const RECEITAS = {
         "Agrega stevia y canela.",
         "Revuelve bien.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🌟"
     },
     {
       "nombre": "Kéfir de frutas",
@@ -8623,7 +9481,8 @@ const RECEITAS = {
         "Revuelve bien.",
         "Sirve frío.",
         "Agrega hielo si deseas."
-      ]
+      ],
+      "emoji": "🥛"
     },
     {
       "nombre": "Agua detox de pepino y menta",
@@ -8649,7 +9508,8 @@ const RECEITAS = {
         "Exprime el limón.",
         "Refrigera 2 horas.",
         "Sirve con hielo."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Chocolate caliente sin azúcar",
@@ -8673,7 +9533,8 @@ const RECEITAS = {
         "Agrega stevia y vainilla.",
         "Revuelve bien.",
         "Sirve con crema y canela."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Jugo verde desintoxicante",
@@ -8699,7 +9560,8 @@ const RECEITAS = {
         "Mezcla bien.",
         "Cuela si deseas.",
         "Sirve frío con hielo."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Café de cúrcuma sin azúcar",
@@ -8723,7 +9585,8 @@ const RECEITAS = {
         "Mezcla con el café.",
         "Agrega stevia.",
         "Espolvorea canela encima."
-      ]
+      ],
+      "emoji": "☕"
     },
     {
       "nombre": "Kombucha de jengibre casera",
@@ -8747,7 +9610,8 @@ const RECEITAS = {
         "Retira el SCOBY.",
         "Agrega jengibre y limón.",
         "Embotella y refrigera."
-      ]
+      ],
+      "emoji": "🧃"
     },
     {
       "nombre": "Té matcha con leche sin azúcar",
@@ -8770,7 +9634,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve caliente o con hielo.",
         "Espolvorea matcha."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Agua de fresa y limón",
@@ -8796,7 +9661,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Cuela si deseas.",
         "Sirve con menta y hielo."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Batido de avena y canela",
@@ -8821,7 +9687,8 @@ const RECEITAS = {
         "Prueba y ajusta.",
         "Agrega hielo.",
         "Sirve inmediatamente."
-      ]
+      ],
+      "emoji": "🥣"
     },
     {
       "nombre": "Infusión de canela y jengibre",
@@ -8847,7 +9714,8 @@ const RECEITAS = {
         "Agrega stevia y limón.",
         "Sirve caliente o frío.",
         "Guarda en nevera hasta 3 días."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de mango y cúrcuma",
@@ -8873,7 +9741,8 @@ const RECEITAS = {
         "Incorpora pimienta.",
         "Sirve con hielo.",
         "Decora con cúrcuma."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Agua de rosas y frambuesa",
@@ -8899,7 +9768,8 @@ const RECEITAS = {
         "Refrigera 1 hora.",
         "Cuela.",
         "Sirve con hielo y pétalos."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Té de hierbas digestivo",
@@ -8925,7 +9795,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Smoothie de sandía",
@@ -8949,7 +9820,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de melón",
@@ -8973,7 +9845,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de guayaba",
@@ -8997,7 +9870,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de maracuyá",
@@ -9021,7 +9895,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de papaya y jengibre",
@@ -9045,7 +9920,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de piña y menta",
@@ -9069,7 +9945,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de kiwi y espinaca",
@@ -9093,7 +9970,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🥤"
     },
     {
       "nombre": "Smoothie de cereza y cacao",
@@ -9117,7 +9995,8 @@ const RECEITAS = {
         "Licúa.",
         "Agrega stevia.",
         "Sirve."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Té de manzanilla y lavanda",
@@ -9142,7 +10021,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Té de rooibos y vainilla",
@@ -9167,7 +10047,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Té de hibisco y canela",
@@ -9192,7 +10073,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Té de tilo y menta",
@@ -9217,7 +10099,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Té de salvia y limón",
@@ -9242,7 +10125,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Té de romero y naranja",
@@ -9267,7 +10151,8 @@ const RECEITAS = {
         "Cuela.",
         "Agrega stevia.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍵"
     },
     {
       "nombre": "Jugo de naranja y zanahoria con jengibre",
@@ -9291,7 +10176,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Jugo de piña y menta con jengibre",
@@ -9315,7 +10201,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Jugo de sandía y albahaca con jengibre",
@@ -9339,7 +10226,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Jugo de uva verde y pepino con jengibre",
@@ -9363,7 +10251,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Jugo de pera y espinaca con jengibre",
@@ -9387,7 +10276,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Jugo de toronja y miel de agave con jengibre",
@@ -9411,7 +10301,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍹"
     },
     {
       "nombre": "Agua infusionada de durazno y romero",
@@ -9435,7 +10326,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Agua infusionada de sandía y menta",
@@ -9459,7 +10351,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Agua infusionada de piña y coco",
@@ -9483,7 +10376,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Agua infusionada de arándano y limón",
@@ -9507,7 +10401,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Agua infusionada de pepino y kiwi",
@@ -9531,7 +10426,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Agua infusionada de naranja y canela",
@@ -9555,7 +10451,8 @@ const RECEITAS = {
         "Refrigera 2 horas.",
         "Sirve con hielo.",
         "Reutiliza."
-      ]
+      ],
+      "emoji": "💧"
     },
     {
       "nombre": "Limonada de fresas y albahaca",
@@ -9580,7 +10477,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de pepino y menta",
@@ -9605,7 +10503,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de maracuyá",
@@ -9630,7 +10529,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de frambuesa",
@@ -9655,7 +10555,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de sandía",
@@ -9680,7 +10581,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de jengibre y cúrcuma",
@@ -9705,7 +10607,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Limonada de lavanda",
@@ -9730,7 +10633,8 @@ const RECEITAS = {
         "Agrega stevia.",
         "Sirve con hielo.",
         "Decora."
-      ]
+      ],
+      "emoji": "🍋"
     },
     {
       "nombre": "Cacao caliente sin azúcar",
@@ -9755,7 +10659,8 @@ const RECEITAS = {
         "Mezcla con batidor.",
         "Agrega vainilla.",
         "Sirve caliente."
-      ]
+      ],
+      "emoji": "🍫"
     },
     {
       "nombre": "Agua de sandía y menta",
@@ -9781,7 +10686,8 @@ const RECEITAS = {
         "Agrega menta y limón.",
         "Endulza con stevia.",
         "Sirve con hielo."
-      ]
+      ],
+      "emoji": "💧"
     }
   ]
 };
