@@ -1,8 +1,20 @@
-const CACHE = 'dulce-libre-v1';
-const ASSETS = ['/', '/index.html', '/receitas_dulce_libre.js', '/manifest.json'];
+const CACHE = 'dulce-libre-v2';
+const ASSETS = [
+  '/dulce-libre/',
+  '/dulce-libre/index.html',
+  '/dulce-libre/receitas_dulce_libre.js',
+  '/dulce-libre/manifest.json'
+];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', e => {
+  e.waitUntil(caches.keys().then(keys =>
+    Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
+  ));
 });
 
 self.addEventListener('fetch', e => {

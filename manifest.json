@@ -1,8 +1,9 @@
 {
   "name": "Dulce Libre",
   "short_name": "Dulce Libre",
-  "description": "397 recetas sin azúcar. Come. Vive. Disfruta.",
-  "start_url": "/",
+  "description": "417 recetas sin azúcar. Come. Vive. Disfruta.",
+  "start_url": "/dulce-libre/",
+  "scope": "/dulce-libre/",
   "display": "standalone",
   "background_color": "#C8213A",
   "theme_color": "#C8213A",
